@@ -1,3 +1,6 @@
+
+<img width="766" height="383" alt="image" src="https://github.com/user-attachments/assets/52410c01-cf34-49c1-8e44-b391d46fd90a" /><br/>
+
 - 🔭 Software Engineering student (4/8 semesters) at Universidade Federal do Pampa, Rio Grande do Sul, Brazil
 - 🌱 Currently learning various programming languages
 
