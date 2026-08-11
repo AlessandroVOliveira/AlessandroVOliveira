@@ -8,7 +8,7 @@ Desenvolvedor fullstack com mais de 14 anos de vivência em sistemas ERP, unindo
 
 - 💼 Suporte especializado ao ERP Questor Empresarial + automação de processos com Python e IA na Acesso Informática
 - 🔭 Bacharelado em Engenharia de Software — UNIPAMPA (em andamento)
-- 🌱 Aprofundando engenharia de prompts e ecossistema MCP (Model Context
+- 🌱 Aprofundando engenharia de prompts e ecossistema MCP (Model Context Protocol)
 - 📫 alessandro.v.o92@gmail.com
 
 ## 🌐 Socials
